@@ -1,0 +1,45 @@
+html,body{
+	margin: 0px;
+	padding: 0px;
+}
+
+.board{
+	background-color: lightblue;
+	padding:20px;
+	width: 300px;
+}
+
+.commentContainer{
+	background-color: white;
+	margin: 20px;
+	margin-top:0px;
+	text-align: center;
+}
+
+.commentText{
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 50px;
+}
+
+.button-primary{
+	background-color: darkblue;
+	color: white;
+	margin-right: 15px;
+}
+
+.button-danger{
+	background-color: red;
+	color: white;
+}
+
+.button-success{
+	background-color: green;
+	color: white;
+}
+
+.button-info{
+	background-color: purple;
+	color:white;
+	margin: 10px;
+}
